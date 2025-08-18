@@ -1,7 +1,12 @@
 
 # 📝 Publications 
 - Here is a partial list of my publications. Note that "+" indicates the corresponding author.
-- ``AAAI 2024`` [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://chenmengdx.github.io/papers/AAAI-24.pdf), Yiwei Wei, **Shaozu Yuan**+, Hengyang Zhou, Longbiao Wang, Zhiling Yan, Ruosong Yang, Meng Chen
+- ``AAAI 2025`` [Multiple Feature Refining Network for Visual Emotion Distribution Learning]([https://ojs.aaai.org/index.php/AAAI/article/view/32965]) Qinfu Xu, Shaozu Yuan, Yiwei Wei, Jie Wu, Leiquan Wang, Chunlei Wu
+- ``AAAI 2025`` [Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints]([https://ojs.aaai.org/index.php/AAAI/article/view/35484]) Qinfu Xu, Yiwei Wei, Chunlei Wu, Leiquan Wang, Shaozu Yuan, Jie Wu, Jing Lu, Hengyang Zhou
+- ``AAAI 2025`` [AutoMV: An Autonomous Agent Framework for Real Estate Marketing Video Generation]([https://ojs.aaai.org/index.php/AAAI/article/view/35377]) Kuizong Wu, Shaozu Yuan, Chang Shen, Long Xu, Meng Chen
+- ``TCSVT 2025`` [Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection]([https://ieeexplore.ieee.org/document/10843779]) Yiwei Wei, Hengyang Zhou, Shaozu Yuan, Meng Chen, Haitao Shi, Zhiyang Jia, Longbiao Wang, Xiaodong He
+-  ``TMM 2025`` [DeepMSD: Advancing Multimodal Sarcasm Detection through Knowledge-augmented Graph Reasoning]([https://chenmengdx.github.io/papers/AAAI-24.pdf](https://ieeexplore.ieee.org/document/10891395)), Yiwei Wei, **Shaozu Yuan**+, Hengyang Zhou, Longbiao Wang, Zhiling Yan, Ruosong Yang, Meng Chen
+- ``AAAI 2024`` [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://chenmengdx.github.io/papers/AAAI-24.pdf), Shaozu Yuan, Yyiwei Wei, Hongyang Zhou, Qinfu Xu, Meng Chen, Xiaodong He
 - ``TMM 2024`` [MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-commerce Commodities](https://chenmengdx.github.io/papers/TOMM-MuJo-SF.pdf), Meihuizi Jia, Lei Shen, Anh Tuan Luu, Meng Chen, Jing Xu, Lejian Liao, **Shaozu Yuan**, Xiaodong He
 - ``Information Fusion 2024`` Learning emotional prompt features with multiple views for visual emotion analysis, Qinfu Xu, Yiwei Wei, **Shaozu Yuan**+, Jie Wu, Leiquan Wang, Chunlei Wu
 - ``KBS 2024`` Towards visual emotion analysis via Multi-Perspective Prompt Learning with Residual-Enhanced Adapter, Chunlei Wu, Qinfu Xu, Yiwei Wei, **Shaozu Yuan**, Jie Wu, Leiquan Wang
